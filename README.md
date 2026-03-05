@@ -53,7 +53,7 @@ python student_mark_system.py
 
 📊 Program Output
 
-"Program Output" (output.png)
+![Program Output] (output.png)
 
 ---
 
@@ -79,5 +79,6 @@ This project helps beginners understand:
 👩‍💻 Author
 
 Anusree M A
+
 
 Python Learner | Aspiring Data Science Enthusiast
